@@ -9,5 +9,19 @@
  */
 
 {
+    "marketing-mfe": {
+        "name": "marketing-mfe",
+        "scope": "cosmo-flux.marketing",
+        "version": "0.0.1",
+        "mainFile": "index.ts",
+        "rootDir": "marketing/marketing-mfe"
+    },
+    "pages/homepage": {
+        "name": "pages/homepage",
+        "scope": "cosmo-flux.marketing",
+        "version": "0.0.1",
+        "mainFile": "index.ts",
+        "rootDir": "marketing/pages/homepage"
+    },
     "$schema-version": "17.0.0"
 }
